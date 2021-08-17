@@ -1,0 +1,32 @@
+.title {
+  text-align: center;
+  margin: 2%;
+}
+
+body {
+  background: url(https://drive.google.com/uc?export=view&id=1kdtndS2T8cN9DWzH2pPTnRlHKtoVqZSW)
+    no-repeat center;
+  background-size: contain;
+  /* background-attachment: fixed; */
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#info {
+  /* width: 100vh;
+  height: 100vh; */
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(8px);
+}
+
+.card-image {
+  margin-top: 3%;
+}
+
+.card-first {
+  margin: 2.5%;
+}

@@ -1,0 +1,28 @@
+.logo {
+  margin: 0;
+  padding: 0;
+  width: 100px;
+  height: 100px;
+}
+
+.bg1 {
+  background-image: url(../images/lake-houseboat1.jpg);
+}
+
+.bg2 {
+  background-image: url(../images/lake-houseboat2.jpeg);
+}
+
+.bg3 {
+  background-image: url(../images/lake-lotus);
+}
+
+.login-button,
+.signup-button {
+  width: 90px;
+  margin: 0 10px;
+}
+
+body {
+  background-color: rgb(113, 135, 197);
+}
