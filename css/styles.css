@@ -26,3 +26,10 @@
 body {
   background-color: rgb(113, 135, 197);
 }
+
+.welcome {
+  /* width: 100vh; */
+  height: 100vh;
+  background-image: url(../images/kerala-intro.jpg);
+  background-size: cover;
+}
